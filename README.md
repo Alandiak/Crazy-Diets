@@ -5,7 +5,7 @@ Modern scientists and nutrition experts reject them all.
 This app gives people the ability to see which is best by vote.
 
 ## How to run
-In Android studio, create a new Flutter Project and copy all the files here into it.
+To run this project, open a new flutter project in Android Studio and add these files. Then run it on the simulated "sdk phone  x86 arm (mobile)".
 
 ## Inspiration
 Within the past year, I have become committed to rock climbing.
