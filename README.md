@@ -5,7 +5,11 @@ Modern scientists and nutrition experts reject them all.
 This app gives people the ability to see which is best by vote.
 
 ## How to run
-To run this project, open a new flutter project in Android Studio and add these files. Then run it on the simulated "sdk phone  x86 arm (mobile)".
+To run this project, open a new flutter project application in Android Studio and add these files. Make sure to call it "crazy_diets". Delete the "tests" file. Then run it on the simulated "sdk phone  x86 arm (mobile)".
+
+To get the simulated phone: In tools > AVD Manager, click "+ Create Virtual Device..." then in the "phone" category add the Nexus 6P.
+
+Once running, click on the "Sign in with Google" to get started. The first tab is diets that you have liked. The second tab is all the known diets, feel free to click on them. Also in that tab you can add new diets by clicking the "+" icon at the bottom right.
 
 ## Inspiration
 Within the past year, I have become committed to rock climbing.
