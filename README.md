@@ -1,8 +1,11 @@
-# crazy_diets
+# Crazy Diets
 
 There are many crazy fad diets that are "shown" to give people massive results.
 Modern scientists and nutrition experts reject them all.
 This app gives people the ability to see which is best by vote.
+
+## How to run
+In Android studio, create a new Flutter Project and copy all the files here into it.
 
 ## Inspiration
 Within the past year, I have become committed to rock climbing.
